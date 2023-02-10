@@ -43,3 +43,19 @@
       height: 125px;
   }
   
+
+  .align-item-container{
+    display: flex;
+    border: 2px solid grey;
+    margin-bottom: 10px;
+    align-items: center;
+  }
+  
+  .align-item{
+      background-color: tomato;
+      border: 2px solid black;
+      margin: 12px;
+      width: 125px;
+      height: 125px;
+  }
+  
