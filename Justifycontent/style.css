@@ -113,5 +113,9 @@
       width: 125px;
       height: 125px;
   }
+
+  .item1{
+    order: 3;
+  }
   
   
