@@ -12,4 +12,19 @@
       width: 125px;
       height: 125px;
   }
+
+  .justify-content-end-container{
+    display: flex;
+    border: 2px solid grey;
+    margin-bottom: 10px;
+    justify-content:flex-end;
+  }
+  
+  .justify-content-end-item{
+      background-color: green;
+      border: 2px solid black;
+      margin: 12px;
+      width: 125px;
+      height: 125px;
+  }
   
