@@ -90,5 +90,21 @@
       width: 125px;
       height: 125px;
   }
+
+
+  .justify-content-space-around-container{
+    display: flex;
+    border: 2px solid grey;
+    margin-bottom: 10px;
+    justify-content:space-between;
+  }
+  
+  .justify-content-space-around-item{
+      background-color: red;
+      border: 2px solid black;
+      margin: 12px;
+      width: 125px;
+      height: 125px;
+  }
   
   
