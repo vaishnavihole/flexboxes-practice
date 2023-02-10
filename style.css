@@ -27,3 +27,18 @@
     width: 125px;
     height: 125px;
 }
+
+.row-reverse-container{
+    display: flex;
+    border: 2px solid grey;
+    flex-direction: row-reverse
+    margin-bottom: 10px;
+  }
+
+  .row-reverse-item{
+    background-color: pink;
+    border: 2px solid black;
+    margin: 12px;
+    width: 125px;
+    height: 125px;
+  }
