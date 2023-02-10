@@ -2,18 +2,26 @@
   display: flex;
   border: 2px solid grey;
   margin-bottom: 10px;
-
 }
-
-
-.f1container{
-    display: flex;
-    border: 2px solid grey;
-    flex-direction: column;
-  }
 
 .fitem{
     background-color: red;
+    border: 2px solid black;
+    margin: 12px;
+    width: 125px;
+    height: 125px;
+}
+
+
+.flex-column-container{
+    display: flex;
+    border: 2px solid grey;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+
+.flex-column-item{
+    background-color: yellow;
     border: 2px solid black;
     margin: 12px;
     width: 125px;
