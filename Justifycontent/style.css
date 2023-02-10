@@ -3,6 +3,7 @@
     border: 2px solid grey;
     margin-bottom: 10px;
     justify-content: center;
+    flex-wrap: wrap;
   }
   
   .fitem{
@@ -18,6 +19,7 @@
     border: 2px solid grey;
     margin-bottom: 10px;
     justify-content:flex-end;
+    flex-wrap: wrap;
   }
   
   .justify-content-end-item{
@@ -33,6 +35,7 @@
     border: 2px solid grey;
     margin-bottom: 10px;
     justify-content:flex-start;
+    flex-wrap: wrap;
   }
   
   .justify-content-start-item{
@@ -49,6 +52,7 @@
     border: 2px solid grey;
     margin-bottom: 10px;
     align-items: center;
+    flex-wrap: wrap;
   }
   
   .align-item{
@@ -65,6 +69,7 @@
     border: 2px solid grey;
     margin-bottom: 10px;
     justify-content:space-evenly;
+    flex-wrap: wrap;
   }
   
   .justify-content-space-evenly-item{
@@ -81,6 +86,7 @@
     border: 2px solid grey;
     margin-bottom: 10px;
     justify-content:space-between;
+    flex-wrap: wrap;
   }
   
   .justify-content-space-between-item{
@@ -97,6 +103,7 @@
     border: 2px solid grey;
     margin-bottom: 10px;
     justify-content:space-between;
+    flex-wrap: wrap;
   }
   
   .justify-content-space-around-item{
