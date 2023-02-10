@@ -31,12 +31,27 @@
 .row-reverse-container{
     display: flex;
     border: 2px solid grey;
-    flex-direction: row-reverse
+    flex-direction: row-reverse;
     margin-bottom: 10px;
   }
 
   .row-reverse-item{
     background-color: pink;
+    border: 2px solid black;
+    margin: 12px;
+    width: 125px;
+    height: 125px;
+  }
+
+  .column-reverse-container{
+    display: flex;
+    border: 2px solid grey;
+    flex-direction: row-reverse;
+    margin-bottom: 10px;
+  }
+
+  .column-reverse-item{
+    background-color: skyblue;
     border: 2px solid black;
     margin: 12px;
     width: 125px;
