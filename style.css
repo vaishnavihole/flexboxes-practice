@@ -46,7 +46,7 @@
   .column-reverse-container{
     display: flex;
     border: 2px solid grey;
-    flex-direction: row-reverse;
+    flex-direction: column-reverse;
     margin-bottom: 10px;
   }
 
