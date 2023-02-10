@@ -1,7 +1,16 @@
 .fcontainer{
   display: flex;
-  
+  border: 2px solid grey;
+  margin-bottom: 10px;
+
 }
+
+
+.f1container{
+    display: flex;
+    border: 2px solid grey;
+    flex-direction: column;
+  }
 
 .fitem{
     background-color: red;
